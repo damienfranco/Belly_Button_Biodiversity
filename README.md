@@ -6,4 +6,4 @@ This project involved building a dashboard that showed data on bacteria that dwe
 
 ## Live Dashboard
 
-The live interactive dashboard can be viewed here: 
+The live interactive dashboard can be viewed here: [PlotlyDeploy](https://damienfranco.github.io/plotlydeploy/).
